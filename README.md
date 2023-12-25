@@ -1,5 +1,8 @@
 
-# Project Title - Infosys Stock Report
+# Infosys Stock Report
+
+### Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNzhlMjlmYTItYWE3Yi00OTg2LTkyYTItMWYxZDc1NTg0ZTk2IiwidCI6IjQ1ZDExOTRmLTI1NWUtNDU4NC04MWZlLTBkN2M4ZjlkNWRkMSJ9
+
 
 ### Step followed
 1. Data Cleaning -removed duplicate values ,null values,modified the data type.
